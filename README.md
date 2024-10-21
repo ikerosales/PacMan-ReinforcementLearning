@@ -1,13 +1,10 @@
 # Pacman Q-Learning Project
 **Authors**: Iker Rosales & Enrique Colmenarejo
 
-<div style="float: right; margin-left: 1000px;">
-    <img src="https://github.com/user-attachments/assets/db16c62d-ee3f-4fea-9657-b96f85c15fcb" alt="Descripción de la imagen" style="width: 200px; height: auto;">
-</div>
-
-
 ## Overview
 This repository contains the implementation of a Q-learning algorithm applied to the classic Pac-Man game. The goal is to enable Pac-Man to learn an optimal action-selection policy that maximizes long-term rewards while navigating through various game environments. The project outlines the development of state selection strategies, reward functions, and the Q-table updating process that together enhance the agent's learning efficiency.
+
+![image](https://github.com/user-attachments/assets/d004b6d0-5d76-4571-989c-454b702e343b)
 
 ## Project Structure
 - **/PACMAN_RL**: Contains the main Q-learning implementation.
