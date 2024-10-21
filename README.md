@@ -1,8 +1,9 @@
 # Pacman Q-Learning Project
 **Authors**: Iker Rosales & Enrique Colmenarejo
 
-![image](https://github.com/user-attachments/assets/db16c62d-ee3f-4fea-9657-b96f85c15fcb)
-
+<div style="float: right; margin-left: 1000px;">
+    <img src="https://github.com/user-attachments/assets/db16c62d-ee3f-4fea-9657-b96f85c15fcb" alt="Descripción de la imagen" style="width: 200px; height: auto;">
+</div>
 
 
 ## Overview
